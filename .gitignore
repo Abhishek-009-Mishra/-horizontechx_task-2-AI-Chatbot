@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# generated / copyrighted material
+vector_db/index.faiss
+vector_db/index.pkl
+data/**/*.pdf

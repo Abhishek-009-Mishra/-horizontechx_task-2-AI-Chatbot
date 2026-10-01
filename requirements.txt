@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-ollama
+langchain-groq
+pypdf
+faiss-cpu
+ollama
+groq
+python-dotenv

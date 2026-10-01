@@ -1,0 +1,5 @@
+Place your CLF-C02 PDF in this folder and name it exactly:
+
+    clf_c02.pdf
+
+Then run: python ingest.py
